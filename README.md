@@ -1,5 +1,5 @@
-OP# Computer-Graphics-Final-Project
-This is a course final project of computer graphics. I used Visual-Studio + GLUT to complete generating models.
+# Computer-Graphics-Final-Project
+This is a course final project of computer graphics. I used `Visual-Studio` + `GLUT` to complete generating models.
 
 ## Output Results of This Project
 ![output result](https://github.com/LizLewis1024/Computer-Graphics-Final-Project/blob/main/result.png)
